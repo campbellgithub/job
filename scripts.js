@@ -4,11 +4,7 @@ function clearText() {
 }
 
 function submitText() {
-    const template = `Please help me craft a three-paragraph cover letter for a financial analyst position. In the first paragraph, I want to introduce myself, state what I'm seeking, and briefly touch on my core beliefs and values. In the second paragraph, I'd like to transition into discussing my qualifications and skills, aligning them with the job description. In the third paragraph, I want to explain why I am specifically interested in working for this company and conclude the letter effectively. Let's make this cover letter polished and reflective of Harvard-level professionalism.
-
-I Want you to base it on the following job description and resume:
-
-Resume: 
+    const template = `Please help me craft a three-paragraph cover letter for a financial analyst position. In the first paragraph, I want to introduce myself, state what I'm seeking, and briefly touch on my core beliefs and values. In the second paragraph, I'd like to transition into discussing my qualifications and skills, aligning them with the job description. In the third paragraph, I want to explain why I am specifically interested in working for this company and conclude the letter effectively. Let's make this cover letter polished and reflective of Harvard-level professionalism. I Want you to base it on the following job description and resume: Resume: 
                                                   Kellan Campbell
 432 West Gorham St. | Madison, WI 53703 | kdcampbell2@wisc.edu | (608) 515-3570
 
